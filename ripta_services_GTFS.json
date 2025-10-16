@@ -1,0 +1,1390 @@
+{
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1,
+                "Id": 0,
+                "stop_id": "5",
+                "stop_code": "000005",
+                "stop_name": "Broad Street Terminus",
+                "stop_desc": " ",
+                "stop_lat": 41.377,
+                "stop_lon": -71.829771,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.82977100015944,
+                "y": 41.37699999985194
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 2,
+                "Id": 0,
+                "stop_id": "10",
+                "stop_code": "000010",
+                "stop_name": "Broad & Thurbers",
+                "stop_desc": " ",
+                "stop_lat": 41.378328,
+                "stop_lon": -71.82668,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.826680000776264,
+                "y": 41.37832799987423
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 3,
+                "Id": 0,
+                "stop_id": "20",
+                "stop_code": "000020",
+                "stop_name": "Trinity Square (Broad & Elmwood)",
+                "stop_desc": " ",
+                "stop_lat": 41.381108,
+                "stop_lon": -71.829808,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "west",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.829807999864713,
+                "y": 41.381107999987414
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 4,
+                "Id": 0,
+                "stop_id": "25",
+                "stop_code": "000025",
+                "stop_name": "Kennedy Plaza (Providence)",
+                "stop_desc": " ",
+                "stop_lat": 41.381039,
+                "stop_lon": -71.82572,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.8257199997221,
+                "y": 41.381038999765813
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 5,
+                "Id": 0,
+                "stop_id": "30",
+                "stop_code": "000030",
+                "stop_name": "Providence Station",
+                "stop_desc": " ",
+                "stop_lat": 41.829038,
+                "stop_lon": -71.412128,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "psta",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.412127999833814,
+                "y": 41.829038000427531
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 6,
+                "Id": 0,
+                "stop_id": "50",
+                "stop_code": "000050",
+                "stop_name": "Charlesgate (North Main & Doyle)",
+                "stop_desc": " ",
+                "stop_lat": 41.424357,
+                "stop_lon": -71.46062,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460619999976444,
+                "y": 41.424356999831119
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 7,
+                "Id": 0,
+                "stop_id": "55",
+                "stop_code": "000055",
+                "stop_name": "9th Street (North Main & 9th)",
+                "stop_desc": " ",
+                "stop_lat": 41.424363,
+                "stop_lon": -71.460504,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460503999394788,
+                "y": 41.424362999973489
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 8,
+                "Id": 0,
+                "stop_id": "60",
+                "stop_code": "000060",
+                "stop_name": "Collyer Park (Main & Conant)",
+                "stop_desc": " ",
+                "stop_lat": 41.424339,
+                "stop_lon": -71.461892,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4618920004845,
+                "y": 41.42433900049646
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 9,
+                "Id": 0,
+                "stop_id": "65",
+                "stop_code": "000065",
+                "stop_name": "Pawtucket-Central Falls Transit Center	Roosevelt & Main",
+                "stop_desc": " ",
+                "stop_lat": 41.424603,
+                "stop_lon": -71.462071,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.46207099998685,
+                "y": 41.424603000107489
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 10,
+                "Id": 0,
+                "stop_id": "75",
+                "stop_code": "000075",
+                "stop_name": "S Pier opposite Frank Low",
+                "stop_desc": " ",
+                "stop_lat": 41.425304,
+                "stop_lon": -71.464052,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4640519992121,
+                "y": 41.425303999897132
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 11,
+                "Id": 0,
+                "stop_id": "80",
+                "stop_code": "000080",
+                "stop_name": "S Pier before Frank Low",
+                "stop_desc": " ",
+                "stop_lat": 41.425305,
+                "stop_lon": -71.463625,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4636249995133,
+                "y": 41.425304999308317
+            },
+
+
+        {
+            "attributes": {
+                "OBJECTID": 10,
+                "Id": 0,
+                "stop_id": "75",
+                "stop_code": "000075",
+                "stop_name": "TF Green Airport",
+                "stop_desc": " ",
+                "stop_lat": 41.425304,
+                "stop_lon": -71.464052,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4640519992121,
+                "y": 41.425303999897132
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 11,
+                "Id": 0,
+                "stop_id": "80",
+                "stop_code": "000080",
+                "stop_name": "Shaw's (Warwick)",
+                "stop_desc": " ",
+                "stop_lat": 41.425305,
+                "stop_lon": -71.463625,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4636249995133,
+                "y": 41.425304999308317
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 12,
+                "Id": 0,
+                "stop_id": "85",
+                "stop_code": "000085",
+                "stop_name": "Broad Street Terminus	",
+                "stop_desc": " ",
+                "stop_lat": 41.42549,
+                "stop_lon": -71.459991,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4599909998259,
+                "y": 41.425489999959858
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 13,
+                "Id": 0,
+                "stop_id": "90",
+                "stop_code": "000090",
+                "stop_name": "RI Hospital (Eddy St Entrance)",
+                "stop_desc": " ",
+                "stop_lat": 41.425519,
+                "stop_lon": -71.460099,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460099000537156,
+                "y": 41.425518999813093
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 14,
+                "Id": 0,
+                "stop_id": "95",
+                "stop_code": "000095",
+                "stop_name": "Kennedy Plaza (Providence)",
+                "stop_desc": " ",
+                "stop_lat": 41.426203,
+                "stop_lon": -71.467536,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.467536000129613,
+                "y": 41.426202999906174
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 15,
+                "Id": 0,
+                "stop_id": "110",
+                "stop_code": "000110",
+                "stop_name": "Tunnel & Thayer	Hope & Olney",
+                "stop_desc": " ",
+                "stop_lat": 41.427019,
+                "stop_lon": -71.459391,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.459391000185434,
+                "y": 41.427019000036196
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 16,
+                "Id": 0,
+                "stop_id": "115",
+                "stop_code": "000115",
+                "stop_name": "Hope & Rochambeau",
+                "stop_desc": " ",
+                "stop_lat": 41.426116,
+                "stop_lon": -71.467565,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.467565000113439,
+                "y": 41.426116000388895
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 17,
+                "Id": 0,
+                "stop_id": "120",
+                "stop_code": "000120",
+                "stop_name": "Pawtucket-Central Falls Transit Center",
+                "stop_desc": " ",
+                "stop_lat": 41.427139,
+                "stop_lon": -71.45946,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.459460000174445,
+                "y": 41.427138999380716
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 18,
+                "Id": 0,
+                "stop_id": "125",
+                "stop_code": "000125",
+                "stop_name": "Benefit & Broadway",
+                "stop_desc": " ",
+                "stop_lat": 41.427791,
+                "stop_lon": -71.472088,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4720879999715,
+                "y": 41.427791000296111
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 19,
+                "Id": 0,
+                "stop_id": "130",
+                "stop_code": "000130",
+                "stop_name": "South Attleboro (Bristol Place)",
+                "stop_desc": " ",
+                "stop_lat": 41.428201,
+                "stop_lon": -71.483328,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "narr",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.48332800005565,
+                "y": 41.428201000606308
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 20,
+                "Id": 0,
+                "stop_id": "135",
+                "stop_code": "000135",
+                "stop_name": "Boon before Central",
+                "stop_desc": " ",
+                "stop_lat": 41.428631,
+                "stop_lon": -71.458762,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.45876200039622,
+                "y": 41.42863100055721
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 21,
+                "Id": 0,
+                "stop_id": "140",
+                "stop_code": "000140",
+                "stop_name": "Boon before Central",
+                "stop_desc": " ",
+                "stop_lat": 41.429057,
+                "stop_lon": -71.458806,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4588059998594,
+                "y": 41.429057000144354
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 22,
+                "Id": 0,
+                "stop_id": "150",
+                "stop_code": "000150",
+                "stop_name": "S Pier opposite Narragansett Middle School",
+                "stop_desc": " ",
+                "stop_lat": 41.42755,
+                "stop_lon": -71.471847,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4718469997867,
+                "y": 41.42755000023508
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 23,
+                "Id": 0,
+                "stop_id": "155",
+                "stop_code": "000155",
+                "stop_name": "S Pier before Lakewood",
+                "stop_desc": " ",
+                "stop_lat": 41.42984,
+                "stop_lon": -71.47616,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.476159999335735,
+                "y": 41.42984000035127
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 24,
+                "Id": 0,
+                "stop_id": "170",
+                "stop_code": "000170",
+                "stop_name": "S Pier opposite Avice",
+                "stop_desc": " ",
+                "stop_lat": 41.430334,
+                "stop_lon": -71.479041,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.479041000128035,
+                "y": 41.43033399943694
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 25,
+                "Id": 0,
+                "stop_id": "185",
+                "stop_code": "000185",
+                "stop_name": "Kingstown before Caswell",
+                "stop_desc": " ",
+                "stop_lat": 41.431188,
+                "stop_lon": -71.460005,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460005000430044,
+                "y": 41.431188000018274
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 26,
+                "Id": 0,
+                "stop_id": "190",
+                "stop_code": "000190",
+                "stop_name": "Kingstown after Caswell",
+                "stop_desc": " ",
+                "stop_lat": 41.431088,
+                "stop_lon": -71.460146,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.46014600011523,
+                "y": 41.431087999906111
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 27,
+                "Id": 0,
+                "stop_id": "250",
+                "stop_code": "000250",
+                "stop_name": "Narragansett & Beach (South Pavilion)",
+                "stop_desc": " ",
+                "stop_lat": 41.435455,
+                "stop_lon": -71.456124,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "nabe",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.456124000460676,
+                "y": 41.435455000348462
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 28,
+                "Id": 0,
+                "stop_id": "255",
+                "stop_code": "000255",
+                "stop_name": "Narragansett & Beach (South Pavilion)",
+                "stop_desc": " ",
+                "stop_lat": 41.435317,
+                "stop_lon": -71.456584,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "nabe",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4565840002523,
+                "y": 41.435317000202168
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 29,
+                "Id": 0,
+                "stop_id": "290",
+                "stop_code": "000290",
+                "stop_name": "Boston Neck - Narragansett Beach North Lot",
+                "stop_desc": " ",
+                "stop_lat": 41.43684,
+                "stop_lon": -71.454786,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.454785999098135,
+                "y": 41.436840000368775
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 30,
+                "Id": 0,
+                "stop_id": "295",
+                "stop_code": "000295",
+                "stop_name": "Boston Neck - North Beach Entrance",
+                "stop_desc": " ",
+                "stop_lat": 41.437274,
+                "stop_lon": -71.454592,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.454591999124858,
+                "y": 41.437273999982942
+            }
+        }
+    ]
+}
+
+
+
+
+{
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1,
+                "Id": 0,
+                "stop_id": "5",
+                "stop_code": "000005",
+                "stop_name": "Broad Street Terminus",
+                "stop_desc": " ",
+                "stop_lat": 41.377,
+                "stop_lon": -71.829771,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.82977100015944,
+                "y": 41.37699999985194
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 2,
+                "Id": 0,
+                "stop_id": "10",
+                "stop_code": "000010",
+                "stop_name": "Broad & Thurbers",
+                "stop_desc": " ",
+                "stop_lat": 41.378328,
+                "stop_lon": -71.82668,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.826680000776264,
+                "y": 41.37832799987423
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 3,
+                "Id": 0,
+                "stop_id": "20",
+                "stop_code": "000020",
+                "stop_name": "Trinity Square (Broad & Elmwood)",
+                "stop_desc": " ",
+                "stop_lat": 41.381108,
+                "stop_lon": -71.829808,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "west",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.829807999864713,
+                "y": 41.381107999987414
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 4,
+                "Id": 0,
+                "stop_id": "25",
+                "stop_code": "000025",
+                "stop_name": "Kennedy Plaza (Providence)",
+                "stop_desc": " ",
+                "stop_lat": 41.381039,
+                "stop_lon": -71.82572,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.8257199997221,
+                "y": 41.381038999765813
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 5,
+                "Id": 0,
+                "stop_id": "30",
+                "stop_code": "000030",
+                "stop_name": "Providence Station",
+                "stop_desc": " ",
+                "stop_lat": 41.829038,
+                "stop_lon": -71.412128,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "psta",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.412127999833814,
+                "y": 41.829038000427531
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 6,
+                "Id": 0,
+                "stop_id": "50",
+                "stop_code": "000050",
+                "stop_name": "Charlesgate (North Main & Doyle)",
+                "stop_desc": " ",
+                "stop_lat": 41.424357,
+                "stop_lon": -71.46062,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460619999976444,
+                "y": 41.424356999831119
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 7,
+                "Id": 0,
+                "stop_id": "55",
+                "stop_code": "000055",
+                "stop_name": "9th Street (North Main & 9th)",
+                "stop_desc": " ",
+                "stop_lat": 41.424363,
+                "stop_lon": -71.460504,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460503999394788,
+                "y": 41.424362999973489
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 8,
+                "Id": 0,
+                "stop_id": "60",
+                "stop_code": "000060",
+                "stop_name": "Collyer Park (Main & Conant)",
+                "stop_desc": " ",
+                "stop_lat": 41.424339,
+                "stop_lon": -71.461892,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4618920004845,
+                "y": 41.42433900049646
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 9,
+                "Id": 0,
+                "stop_id": "65",
+                "stop_code": "000065",
+                "stop_name": "Pawtucket-Central Falls Transit Center	Roosevelt & Main",
+                "stop_desc": " ",
+                "stop_lat": 41.424603,
+                "stop_lon": -71.462071,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.46207099998685,
+                "y": 41.424603000107489
+            }
+        },
+		
+		
+		
+TF Green Airport
+Shaw's (Warwick) - Warwick Ave		
+Broad Street Terminus	
+RI Hospital (Eddy St Entrance)	
+Kennedy Plaza (Providence)	
+Tunnel & Thayer	Hope & Olney	
+Hope & Rochambeau	
+Pawtucket-Central Falls Transit Center	
+Benefit & Broadway	
+South Attleboro (Bristol Place)
+		
+		
+        {
+            "attributes": {
+                "OBJECTID": 10,
+                "Id": 0,
+                "stop_id": "75",
+                "stop_code": "000075",
+                "stop_name": "TF Green Airport",
+                "stop_desc": " ",
+                "stop_lat": 41.425304,
+                "stop_lon": -71.464052,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4640519992121,
+                "y": 41.425303999897132
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 11,
+                "Id": 0,
+                "stop_id": "80",
+                "stop_code": "000080",
+                "stop_name": "Shaw's (Warwick)",
+                "stop_desc": " ",
+                "stop_lat": 41.425305,
+                "stop_lon": -71.463625,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4636249995133,
+                "y": 41.425304999308317
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 12,
+                "Id": 0,
+                "stop_id": "85",
+                "stop_code": "000085",
+                "stop_name": "Broad Street Terminus	",
+                "stop_desc": " ",
+                "stop_lat": 41.42549,
+                "stop_lon": -71.459991,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4599909998259,
+                "y": 41.425489999959858
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 13,
+                "Id": 0,
+                "stop_id": "90",
+                "stop_code": "000090",
+                "stop_name": "RI Hospital (Eddy St Entrance)",
+                "stop_desc": " ",
+                "stop_lat": 41.425519,
+                "stop_lon": -71.460099,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460099000537156,
+                "y": 41.425518999813093
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 14,
+                "Id": 0,
+                "stop_id": "95",
+                "stop_code": "000095",
+                "stop_name": "Kennedy Plaza (Providence)",
+                "stop_desc": " ",
+                "stop_lat": 41.426203,
+                "stop_lon": -71.467536,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.467536000129613,
+                "y": 41.426202999906174
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 15,
+                "Id": 0,
+                "stop_id": "110",
+                "stop_code": "000110",
+                "stop_name": "Tunnel & Thayer	Hope & Olney",
+                "stop_desc": " ",
+                "stop_lat": 41.427019,
+                "stop_lon": -71.459391,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.459391000185434,
+                "y": 41.427019000036196
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 16,
+                "Id": 0,
+                "stop_id": "115",
+                "stop_code": "000115",
+                "stop_name": "Hope & Rochambeau",
+                "stop_desc": " ",
+                "stop_lat": 41.426116,
+                "stop_lon": -71.467565,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.467565000113439,
+                "y": 41.426116000388895
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 17,
+                "Id": 0,
+                "stop_id": "120",
+                "stop_code": "000120",
+                "stop_name": "Pawtucket-Central Falls Transit Center",
+                "stop_desc": " ",
+                "stop_lat": 41.427139,
+                "stop_lon": -71.45946,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.459460000174445,
+                "y": 41.427138999380716
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 18,
+                "Id": 0,
+                "stop_id": "125",
+                "stop_code": "000125",
+                "stop_name": "Benefit & Broadway",
+                "stop_desc": " ",
+                "stop_lat": 41.427791,
+                "stop_lon": -71.472088,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4720879999715,
+                "y": 41.427791000296111
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 19,
+                "Id": 0,
+                "stop_id": "130",
+                "stop_code": "000130",
+                "stop_name": "South Attleboro (Bristol Place)",
+                "stop_desc": " ",
+                "stop_lat": 41.428201,
+                "stop_lon": -71.483328,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "narr",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.48332800005565,
+                "y": 41.428201000606308
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 20,
+                "Id": 0,
+                "stop_id": "135",
+                "stop_code": "000135",
+                "stop_name": "Boon before Central",
+                "stop_desc": " ",
+                "stop_lat": 41.428631,
+                "stop_lon": -71.458762,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.45876200039622,
+                "y": 41.42863100055721
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 21,
+                "Id": 0,
+                "stop_id": "140",
+                "stop_code": "000140",
+                "stop_name": "Boon before Central",
+                "stop_desc": " ",
+                "stop_lat": 41.429057,
+                "stop_lon": -71.458806,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4588059998594,
+                "y": 41.429057000144354
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 22,
+                "Id": 0,
+                "stop_id": "150",
+                "stop_code": "000150",
+                "stop_name": "S Pier opposite Narragansett Middle School",
+                "stop_desc": " ",
+                "stop_lat": 41.42755,
+                "stop_lon": -71.471847,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4718469997867,
+                "y": 41.42755000023508
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 23,
+                "Id": 0,
+                "stop_id": "155",
+                "stop_code": "000155",
+                "stop_name": "S Pier before Lakewood",
+                "stop_desc": " ",
+                "stop_lat": 41.42984,
+                "stop_lon": -71.47616,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.476159999335735,
+                "y": 41.42984000035127
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 24,
+                "Id": 0,
+                "stop_id": "170",
+                "stop_code": "000170",
+                "stop_name": "S Pier opposite Avice",
+                "stop_desc": " ",
+                "stop_lat": 41.430334,
+                "stop_lon": -71.479041,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.479041000128035,
+                "y": 41.43033399943694
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 25,
+                "Id": 0,
+                "stop_id": "185",
+                "stop_code": "000185",
+                "stop_name": "Kingstown before Caswell",
+                "stop_desc": " ",
+                "stop_lat": 41.431188,
+                "stop_lon": -71.460005,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.460005000430044,
+                "y": 41.431188000018274
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 26,
+                "Id": 0,
+                "stop_id": "190",
+                "stop_code": "000190",
+                "stop_name": "Kingstown after Caswell",
+                "stop_desc": " ",
+                "stop_lat": 41.431088,
+                "stop_lon": -71.460146,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.46014600011523,
+                "y": 41.431087999906111
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 27,
+                "Id": 0,
+                "stop_id": "250",
+                "stop_code": "000250",
+                "stop_name": "Narragansett & Beach (South Pavilion)",
+                "stop_desc": " ",
+                "stop_lat": 41.435455,
+                "stop_lon": -71.456124,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "nabe",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.456124000460676,
+                "y": 41.435455000348462
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 28,
+                "Id": 0,
+                "stop_id": "255",
+                "stop_code": "000255",
+                "stop_name": "Narragansett & Beach (South Pavilion)",
+                "stop_desc": " ",
+                "stop_lat": 41.435317,
+                "stop_lon": -71.456584,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": "nabe",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.4565840002523,
+                "y": 41.435317000202168
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 29,
+                "Id": 0,
+                "stop_id": "290",
+                "stop_code": "000290",
+                "stop_name": "Boston Neck - Narragansett Beach North Lot",
+                "stop_desc": " ",
+                "stop_lat": 41.43684,
+                "stop_lon": -71.454786,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.454785999098135,
+                "y": 41.436840000368775
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 30,
+                "Id": 0,
+                "stop_id": "295",
+                "stop_code": "000295",
+                "stop_name": "Boston Neck - North Beach Entrance",
+                "stop_desc": " ",
+                "stop_lat": 41.437274,
+                "stop_lon": -71.454592,
+                "zone_id": " ",
+                "stop_url": " ",
+                "loc_type": "0",
+                "parent_sta": " ",
+                "stop_assoc": " ",
+                "wheelchair": "0"
+            },
+            "geometry": {
+                "x": -71.454591999124858,
+                "y": 41.437273999982942
+            }
+        },
