@@ -155,10 +155,10 @@
       "service_id": "IE9900",
       "train_number": "16",
       "departure_station": "Roosevelt and Main",
-      "destination_station": "Roosevelt....",
+      "destination_station": "Roosevelt and Main",
       "departure_time": "10:15:00",
       "arrival_time": "12:45:00",
-      "platform": "12",
+      "platform": "9",
       "status": "On time"
     },
    {
