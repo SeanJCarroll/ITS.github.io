@@ -4,7 +4,7 @@
       "service_id": "IE2345",
       "train_number": "1",
       "departure_station": "Broad Street Terminus",
-      "destination_station": "Broad Street Terminus",
+      "destination_station": "Broad Street Terminus_ABCDEFG",
       "departure_time": "08:30:00",
       "arrival_time": "11:15:00",
       "platform": "5",
@@ -155,7 +155,7 @@
       "service_id": "IE9900",
       "train_number": "16",
       "departure_station": "Roosevelt and Main",
-      "destination_station": "Roosevelt and Main-ABCDEFG.",
+      "destination_station": "Roosevelt and Main",
       "departure_time": "10:15:00",
       "arrival_time": "12:45:00",
       "platform": "347",
@@ -174,6 +174,7 @@
   ]
 
 }
+
 
 
 
