@@ -2,13 +2,14 @@
   "PMV_1": [
     {
       "Location": "Ville de Vannes Parking",
-      "P_Centre": "COMPLET",
+      "P_Centre": "123",
       "P_Republique": "COMPLET",
-      "P_Port": "COMPLET",
+      "P_Port": "FERME",
       "T_Port_Monnet": "40",
-      "T_Centre_Ville": "0",
+      "T_Centre_Ville": "5",
       "T_La_Loi": "2",
-      "T_Palais_des_Arts": ""
+      "T_Palais_des_Arts": "7"
     }
   ]
+
 }
