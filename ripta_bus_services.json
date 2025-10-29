@@ -7,7 +7,7 @@
       "ArrivalTimeFormatted": "5:14 AM",
       "DepatureTimeFormatted": "5:14 AM",
       "StopId": "G",
-      "Destination": "Woonsocket/Bellingham via Greystone",
+      "Destination": "Woonsocket/Bellingham via Greystone ABCDEFGHIJKLMNOP 11111111111333",
       "IsRealTime": "N"
     },
     {
@@ -27994,3 +27994,4 @@
   ]
 
 }
+
