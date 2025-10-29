@@ -4,10 +4,10 @@
     {
       "RouteName": "54",
       "TripId": "4375563",
-      "ArrivalTimeFormatted": "5:14 AM",
+      "ArrivalTimeFormatted": "5:14 AM *",
       "DepatureTimeFormatted": "5:14 AM",
       "StopId": "G",
-      "Destination": "Woonsocket/Bellingham via Greystone ABCDEFGHIJKLMNOP 11111111111333",
+      "Destination": "Woonsocket/Bellingham via Greystone",
       "IsRealTime": "N"
     },
     {
@@ -27994,4 +27994,5 @@
   ]
 
 }
+
 
