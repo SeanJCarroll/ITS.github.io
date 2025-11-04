@@ -1,0 +1,1205 @@
+{
+  "resultCount": 120,
+  "results": [
+    {
+      "RouteName": "R",
+      "TripId": "4374394",
+      "ArrivalTimeFormatted": "8:23 AM",
+      "DepartureTimeFormatted": "8:23 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374405",
+      "ArrivalTimeFormatted": "8:23 AM",
+      "DepartureTimeFormatted": "8:23 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "55",
+      "TripId": "4388409",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "8:24 AM*",
+      "StopId": "I",
+      "Destination": "RI College via Admiral St",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "55",
+      "TripId": "4389667",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "V",
+      "Destination": "Centerdale via Smith St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "72",
+      "TripId": "4374529",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "G",
+      "Destination": "Pawtucket Transit Center via Weeden St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387252",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4388921",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4389026",
+      "ArrivalTimeFormatted": "8:24 AM",
+      "DepartureTimeFormatted": "8:24 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "6",
+      "TripId": "4388135",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "D",
+      "Destination": "Colony House",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387252",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4388921",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "8:25 AM*",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4389026",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "31",
+      "TripId": "4387719",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "8:25 AM*",
+      "StopId": "D",
+      "Destination": "Brewery Parkade (Cranston)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "33",
+      "TripId": "4387631",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "H",
+      "Destination": "Seekonk Sq (Mass) via Wampanoag Plaza",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "56",
+      "TripId": "4389268",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "D",
+      "Destination": "Brewery Parkade (Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "60",
+      "TripId": "4333195",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "Y",
+      "Destination": "Newport via W Main Rd",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "78",
+      "TripId": "4388889",
+      "ArrivalTimeFormatted": "8:25 AM",
+      "DepartureTimeFormatted": "8:25 AM",
+      "DepartureTimeCountDown": "Arriving",
+      "StopId": "H",
+      "Destination": "Pawtucket Transit Center via Bev Hill Av",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "72",
+      "TripId": "4389713",
+      "ArrivalTimeFormatted": "8:26 AM",
+      "DepartureTimeFormatted": "8:26 AM",
+      "DepartureTimeCountDown": "3 minutes",
+      "StopId": "G",
+      "Destination": "Pawtucket Transit Center via Weeden St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "19",
+      "TripId": "4375685",
+      "ArrivalTimeFormatted": "8:28 AM",
+      "DepartureTimeFormatted": "8:28 AM",
+      "DepartureTimeCountDown": "5 minutes",
+      "StopId": "C",
+      "Destination": "Stop\u0026Shop (Atwood Ave - Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "51",
+      "TripId": "4387729",
+      "ArrivalTimeFormatted": "8:28 AM",
+      "DepartureTimeFormatted": "8:28 AM",
+      "DepartureTimeCountDown": "5 minutes",
+      "StopId": "G",
+      "Destination": "CCRI Lincoln",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "51",
+      "TripId": "4389328",
+      "ArrivalTimeFormatted": "8:29 AM",
+      "DepartureTimeFormatted": "8:29 AM",
+      "DepartureTimeCountDown": "6 minutes",
+      "StopId": "G",
+      "Destination": "Twin River Casino",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4376162",
+      "ArrivalTimeFormatted": "8:29 AM",
+      "DepartureTimeFormatted": "8:29 AM",
+      "DepartureTimeCountDown": "8:29 AM*",
+      "StopId": "J",
+      "Destination": "Riverview Place",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374939",
+      "ArrivalTimeFormatted": "8:29 AM",
+      "DepartureTimeFormatted": "8:29 AM",
+      "DepartureTimeCountDown": "6 minutes",
+      "StopId": "I",
+      "Destination": "Pawtucket Transit Center via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387362",
+      "ArrivalTimeFormatted": "8:29 AM",
+      "DepartureTimeFormatted": "8:29 AM",
+      "DepartureTimeCountDown": "6 minutes",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374903",
+      "ArrivalTimeFormatted": "8:29 AM",
+      "DepartureTimeFormatted": "8:29 AM",
+      "DepartureTimeCountDown": "6 minutes",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374903",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374939",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "8:30 AM*",
+      "StopId": "I",
+      "Destination": "Pawtucket Transit Center via Hope St",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387362",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "20",
+      "TripId": "4374657",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "C",
+      "Destination": "Job Lot (Elmwood Ave - Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "27",
+      "TripId": "4375795",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "W",
+      "Destination": "Job Lot (Johnston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "27",
+      "TripId": "4388797",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "W",
+      "Destination": "Centerdale via Woonasquatucket Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "31",
+      "TripId": "4373852",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "V",
+      "Destination": "Stop\u0026Shop (Manton Ave)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "34",
+      "TripId": "4388815",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "H",
+      "Destination": "Seekonk Sq (Mass) via Wampanoag Plaza",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "35",
+      "TripId": "4387172",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "H",
+      "Destination": "South Attleboro Station via Newport Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "50",
+      "TripId": "4388257",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "8:30 AM*",
+      "StopId": "J",
+      "Destination": "Bryant University",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "55",
+      "TripId": "4389669",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "I",
+      "Destination": "RI College via Admiral St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4376162",
+      "ArrivalTimeFormatted": "8:30 AM",
+      "DepartureTimeFormatted": "8:30 AM",
+      "DepartureTimeCountDown": "7 minutes",
+      "StopId": "J",
+      "Destination": "Riverview Place",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "50",
+      "TripId": "4389583",
+      "ArrivalTimeFormatted": "8:32 AM",
+      "DepartureTimeFormatted": "8:32 AM",
+      "DepartureTimeCountDown": "9 minutes",
+      "StopId": "J",
+      "Destination": "Bryant University",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "51",
+      "TripId": "4375526",
+      "ArrivalTimeFormatted": "8:34 AM",
+      "DepartureTimeFormatted": "8:34 AM",
+      "DepartureTimeCountDown": "11 minutes",
+      "StopId": "B",
+      "Destination": "Hospital District via Charles St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374397",
+      "ArrivalTimeFormatted": "8:34 AM",
+      "DepartureTimeFormatted": "8:34 AM",
+      "DepartureTimeCountDown": "8:34 AM*",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374400",
+      "ArrivalTimeFormatted": "8:34 AM",
+      "DepartureTimeFormatted": "8:34 AM",
+      "DepartureTimeCountDown": "11 minutes",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374397",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374400",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "18",
+      "TripId": "4374606",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "I",
+      "Destination": "Butler Hospital",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "18",
+      "TripId": "4374632",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "C",
+      "Destination": "Dyer \u0026 Chestnut Hill (Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "22",
+      "TripId": "4387525",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "8:35 AM*",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Pontiac Ave",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "22",
+      "TripId": "4388732",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Pontiac Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "28",
+      "TripId": "4388162",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "W",
+      "Destination": "Job Lot (Johnston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "35",
+      "TripId": "4373437",
+      "ArrivalTimeFormatted": "8:35 AM",
+      "DepartureTimeFormatted": "8:35 AM",
+      "DepartureTimeCountDown": "12 minutes",
+      "StopId": "H",
+      "Destination": "South Attleboro Station via Newport Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4387985",
+      "ArrivalTimeFormatted": "8:36 AM",
+      "DepartureTimeFormatted": "8:36 AM",
+      "DepartureTimeCountDown": "13 minutes",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4387985",
+      "ArrivalTimeFormatted": "8:37 AM",
+      "DepartureTimeFormatted": "8:37 AM",
+      "DepartureTimeCountDown": "8:37 AM*",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "4",
+      "TripId": "4373516",
+      "ArrivalTimeFormatted": "8:37 AM",
+      "DepartureTimeFormatted": "8:37 AM",
+      "DepartureTimeCountDown": "14 minutes",
+      "StopId": "B",
+      "Destination": "The Met School",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "6",
+      "TripId": "4374827",
+      "ArrivalTimeFormatted": "8:37 AM",
+      "DepartureTimeFormatted": "8:37 AM",
+      "DepartureTimeCountDown": "14 minutes",
+      "StopId": "D",
+      "Destination": "Colony House",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4389457",
+      "ArrivalTimeFormatted": "8:37 AM",
+      "DepartureTimeFormatted": "8:37 AM",
+      "DepartureTimeCountDown": "14 minutes",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4389462",
+      "ArrivalTimeFormatted": "8:37 AM",
+      "DepartureTimeFormatted": "8:37 AM",
+      "DepartureTimeCountDown": "14 minutes",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4389457",
+      "ArrivalTimeFormatted": "8:38 AM",
+      "DepartureTimeFormatted": "8:38 AM",
+      "DepartureTimeCountDown": "15 minutes",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4389462",
+      "ArrivalTimeFormatted": "8:38 AM",
+      "DepartureTimeFormatted": "8:38 AM",
+      "DepartureTimeCountDown": "15 minutes",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4387986",
+      "ArrivalTimeFormatted": "8:39 AM",
+      "DepartureTimeFormatted": "8:39 AM",
+      "DepartureTimeCountDown": "8:39 AM",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4387986",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "D",
+      "Destination": "Shaw s (Warwick)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "30",
+      "TripId": "4387526",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Reservoir Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "30",
+      "TripId": "4389173",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Reservoir Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "33",
+      "TripId": "4374035",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM*",
+      "StopId": "H",
+      "Destination": "Seekonk Sq (Mass) via Wampanoag Plaza",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "50",
+      "TripId": "4375300",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM*",
+      "StopId": "J",
+      "Destination": "Bryant University",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "56",
+      "TripId": "4389263",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "V",
+      "Destination": "Stop\u0026Shop (Manton Ave)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "57",
+      "TripId": "4388405",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "V",
+      "Destination": "Centerdale via Smith St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "78",
+      "TripId": "4387915",
+      "ArrivalTimeFormatted": "8:40 AM",
+      "DepartureTimeFormatted": "8:40 AM",
+      "DepartureTimeCountDown": "8:40 AM",
+      "StopId": "H",
+      "Destination": "Pawtucket Transit Center via Bev Hill Av",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4388518",
+      "ArrivalTimeFormatted": "8:42 AM",
+      "DepartureTimeFormatted": "8:42 AM",
+      "DepartureTimeCountDown": "8:42 AM",
+      "StopId": "J",
+      "Destination": "Riverview Place",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "56",
+      "TripId": "4387800",
+      "ArrivalTimeFormatted": "8:43 AM",
+      "DepartureTimeFormatted": "8:43 AM",
+      "DepartureTimeCountDown": "8:43 AM",
+      "StopId": "V",
+      "Destination": "Stop\u0026Shop (Manton Ave)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4388518",
+      "ArrivalTimeFormatted": "8:43 AM",
+      "DepartureTimeFormatted": "8:43 AM",
+      "DepartureTimeCountDown": "8:43 AM",
+      "StopId": "J",
+      "Destination": "Riverview Place",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "31",
+      "TripId": "4373853",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "D",
+      "Destination": "Brewery Parkade (Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "72",
+      "TripId": "4374527",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "G",
+      "Destination": "Pawtucket Transit Center via Weeden St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387253",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4388922",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4389027",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "54",
+      "TripId": "4387142",
+      "ArrivalTimeFormatted": "8:44 AM",
+      "DepartureTimeFormatted": "8:44 AM",
+      "DepartureTimeCountDown": "8:44 AM",
+      "StopId": "G",
+      "Destination": "Woonsocket/Bellingham via CCRI Lincoln",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387253",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM*",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4388922",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4389027",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "17",
+      "TripId": "4388584",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "C",
+      "Destination": "Stop\u0026Shop (Atwood Ave - Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "17",
+      "TripId": "4389864",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM*",
+      "StopId": "C",
+      "Destination": "Stop\u0026Shop (Atwood Ave - Cranston)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "19",
+      "TripId": "4375683",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "C",
+      "Destination": "Walmart (Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "20",
+      "TripId": "4374658",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM*",
+      "StopId": "C",
+      "Destination": "TF Green Airport via Elmwood Ave",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "20",
+      "TripId": "4387419",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "C",
+      "Destination": "TF Green Airport via Elmwood Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "20",
+      "TripId": "4389072",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "C",
+      "Destination": "TF Green Airport via Elmwood Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "28",
+      "TripId": "4375793",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "W",
+      "Destination": "Centerdale via George Waterman Rd",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "60",
+      "TripId": "4334685",
+      "ArrivalTimeFormatted": "8:45 AM",
+      "DepartureTimeFormatted": "8:45 AM",
+      "DepartureTimeCountDown": "8:45 AM",
+      "StopId": "Y",
+      "Destination": "Newport via W Main Rd",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374392",
+      "ArrivalTimeFormatted": "8:46 AM",
+      "DepartureTimeFormatted": "8:46 AM",
+      "DepartureTimeCountDown": "8:46 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374381",
+      "ArrivalTimeFormatted": "8:46 AM",
+      "DepartureTimeFormatted": "8:46 AM",
+      "DepartureTimeCountDown": "8:46 AM",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374381",
+      "ArrivalTimeFormatted": "8:47 AM",
+      "DepartureTimeFormatted": "8:47 AM",
+      "DepartureTimeCountDown": "8:47 AM*",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374392",
+      "ArrivalTimeFormatted": "8:47 AM",
+      "DepartureTimeFormatted": "8:47 AM",
+      "DepartureTimeCountDown": "8:47 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "66",
+      "TripId": "4374842",
+      "ArrivalTimeFormatted": "8:47 AM",
+      "DepartureTimeFormatted": "8:47 AM",
+      "DepartureTimeCountDown": "8:47 AM*",
+      "StopId": "X",
+      "Destination": "URI Kingston",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "51",
+      "TripId": "4375523",
+      "ArrivalTimeFormatted": "8:47 AM",
+      "DepartureTimeFormatted": "8:47 AM",
+      "DepartureTimeCountDown": "8:47 AM",
+      "StopId": "G",
+      "Destination": "CCRI Lincoln",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4388516",
+      "ArrivalTimeFormatted": "8:48 AM",
+      "DepartureTimeFormatted": "8:48 AM",
+      "DepartureTimeCountDown": "8:48 AM",
+      "StopId": "D",
+      "Destination": "RI College via Atwells Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4388516",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "D",
+      "Destination": "RI College via Atwells Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4376156",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "D",
+      "Destination": "RI College via Atwells Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "3",
+      "TripId": "4373643",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "B",
+      "Destination": "Oakland Beach",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374902",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "4",
+      "TripId": "4389454",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "C",
+      "Destination": "Warwick Neck",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387363",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374905",
+      "ArrivalTimeFormatted": "8:49 AM",
+      "DepartureTimeFormatted": "8:49 AM",
+      "DepartureTimeCountDown": "8:49 AM",
+      "StopId": "D",
+      "Destination": "TF Green Airport via Warwick Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374902",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "I",
+      "Destination": "South Attleboro Station via Hope St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "1",
+      "TripId": "4374905",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "D",
+      "Destination": "TF Green Airport via Warwick Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4387363",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "21",
+      "TripId": "4389174",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM*",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Oaklawn Ave",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "22",
+      "TripId": "4373767",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Pontiac Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "27",
+      "TripId": "4388225",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "W",
+      "Destination": "Centerdale via Woonasquatucket Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "27",
+      "TripId": "4388776",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "W",
+      "Destination": "Job Lot (Johnston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "31",
+      "TripId": "4387712",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "D",
+      "Destination": "Brewery Parkade (Cranston)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "35",
+      "TripId": "4373432",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "H",
+      "Destination": "Pawtucket Transit Center via Bev Hill Av",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "57",
+      "TripId": "4374086",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "V",
+      "Destination": "Centerdale via Smith St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "60",
+      "TripId": "4376096",
+      "ArrivalTimeFormatted": "8:50 AM",
+      "DepartureTimeFormatted": "8:50 AM",
+      "DepartureTimeCountDown": "8:50 AM",
+      "StopId": "Y",
+      "Destination": "Newport via W Main Rd",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "72",
+      "TripId": "4387861",
+      "ArrivalTimeFormatted": "8:51 AM",
+      "DepartureTimeFormatted": "8:51 AM",
+      "DepartureTimeCountDown": "8:51 AM",
+      "StopId": "G",
+      "Destination": "Pawtucket Transit Center via Weeden St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "31",
+      "TripId": "4373854",
+      "ArrivalTimeFormatted": "8:54 AM",
+      "DepartureTimeFormatted": "8:54 AM",
+      "DepartureTimeCountDown": "8:54 AM",
+      "StopId": "V",
+      "Destination": "Stop\u0026Shop (Manton Ave)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "21",
+      "TripId": "4373768",
+      "ArrivalTimeFormatted": "8:55 AM",
+      "DepartureTimeFormatted": "8:55 AM",
+      "DepartureTimeCountDown": "8:55 AM",
+      "StopId": "C",
+      "Destination": "CCRI Warwick via Reservoir Ave",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "60",
+      "TripId": "4333192",
+      "ArrivalTimeFormatted": "8:55 AM",
+      "DepartureTimeFormatted": "8:55 AM",
+      "DepartureTimeCountDown": "8:55 AM",
+      "StopId": "Y",
+      "Destination": "Newport via E Main Rd",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "55",
+      "TripId": "4388404",
+      "ArrivalTimeFormatted": "8:56 AM",
+      "DepartureTimeFormatted": "8:56 AM",
+      "DepartureTimeCountDown": "8:56 AM*",
+      "StopId": "I",
+      "Destination": "RI College via Admiral St",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "51",
+      "TripId": "4387752",
+      "ArrivalTimeFormatted": "8:56 AM",
+      "DepartureTimeFormatted": "8:56 AM",
+      "DepartureTimeCountDown": "8:56 AM",
+      "StopId": "B",
+      "Destination": "Hospital District via Charles St",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "92",
+      "TripId": "4389780",
+      "ArrivalTimeFormatted": "8:57 AM",
+      "DepartureTimeFormatted": "8:57 AM",
+      "DepartureTimeCountDown": "8:57 AM*",
+      "StopId": "D",
+      "Destination": "RI College via Atwells Ave",
+      "IsRealTime": "N"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374372",
+      "ArrivalTimeFormatted": "8:58 AM",
+      "DepartureTimeFormatted": "8:58 AM",
+      "DepartureTimeCountDown": "8:58 AM",
+      "StopId": "J",
+      "Destination": "Slater Mill (Pawtucket)",
+      "IsRealTime": "Y"
+    },
+    {
+      "RouteName": "R",
+      "TripId": "4374383",
+      "ArrivalTimeFormatted": "8:58 AM",
+      "DepartureTimeFormatted": "8:58 AM",
+      "DepartureTimeCountDown": "8:58 AM*",
+      "StopId": "D",
+      "Destination": "Broad Street Terminal (Providence)",
+      "IsRealTime": "N"
+    }
+  ]
+}
