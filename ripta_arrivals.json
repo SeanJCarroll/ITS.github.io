@@ -8,7 +8,7 @@
       "DepartureTimeFormatted": "8:23 AM",
       "DepartureTimeCountDown": "Arriving",
       "StopId": "J",
-      "Destination": "Slater Mill (Pawtucket)",
+      "Destination": "Slater Mill (Pawtucket)..(Pawtucket)",
       "IsRealTime": "Y"
     },
     {
@@ -1204,6 +1204,7 @@
   ]
 
 }
+
 
 
 
