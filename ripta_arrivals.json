@@ -6,9 +6,9 @@
       "TripId": "4374394",
       "ArrivalTimeFormatted": "8:23 AM",
       "DepartureTimeFormatted": "8:23 AM",
-      "DepartureTimeCountDown": "Arriving...111112222",
+      "DepartureTimeCountDown": "Arriving",
       "StopId": "J",
-      "Destination": "Slater Mill (Pawtucket)...1111222",
+      "Destination": "Slater Mill (Pawtucket)",
       "IsRealTime": "Y"
     },
     {
@@ -1204,5 +1204,6 @@
   ]
 
 }
+
 
 
