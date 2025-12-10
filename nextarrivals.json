@@ -1,0 +1,292 @@
+{
+    "resultCount": 32,
+    "results": [{
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:15 AM",
+            "departureTimeFormatted": "05:15 AM",
+            "departureTimeCountDown": "05:15 AM",
+            "stopId": "G",
+            "destination": "Woonsocket/Bellingham via Greystone",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:19 AM",
+            "departureTimeFormatted": "05:19 AM",
+            "departureTimeCountDown": "05:19 AM",
+            "stopId": "S",
+            "destination": "Quonset",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:35 AM",
+            "departureTimeFormatted": "05:35 AM",
+            "departureTimeCountDown": "05:35 AM",
+            "stopId": "B",
+            "destination": "Hospital District via Charles St",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:37 AM",
+            "departureTimeFormatted": "05:37 AM",
+            "departureTimeCountDown": "05:37 AM",
+            "stopId": "J",
+            "destination": "Slater Mill (Pawtucket)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:37 AM",
+            "departureTimeFormatted": "05:37 AM",
+            "departureTimeCountDown": "05:37 AM",
+            "stopId": "D",
+            "destination": "Broad Street Terminal (Providence)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:40 AM",
+            "departureTimeFormatted": "05:40 AM",
+            "departureTimeCountDown": "05:40 AM",
+            "stopId": "C",
+            "destination": "CCRI Warwick via Oaklawn Ave",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:40 AM",
+            "departureTimeFormatted": "05:40 AM",
+            "departureTimeCountDown": "05:40 AM",
+            "stopId": "B",
+            "destination": "Hospital District (Providence)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:40 AM",
+            "departureTimeFormatted": "05:40 AM",
+            "departureTimeCountDown": "05:40 AM",
+            "stopId": "H",
+            "destination": "Shaw s (Riverside)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:45 AM",
+            "departureTimeFormatted": "05:45 AM",
+            "departureTimeCountDown": "05:45 AM",
+            "stopId": "W",
+            "destination": "Centerdale via George Waterman Rd",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:45 AM",
+            "departureTimeFormatted": "05:45 AM",
+            "departureTimeCountDown": "05:45 AM",
+            "stopId": "J",
+            "destination": "Shaw s (N Providence) via Douglas Ave",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:45 AM",
+            "departureTimeFormatted": "05:45 AM",
+            "departureTimeCountDown": "05:45 AM",
+            "stopId": "Y",
+            "destination": "Newport via E Main Rd",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:45 AM",
+            "departureTimeFormatted": "05:45 AM",
+            "departureTimeCountDown": "05:45 AM",
+            "stopId": "G",
+            "destination": "Pawtucket Transit Center via Weeden St",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:45 AM",
+            "departureTimeFormatted": "05:45 AM",
+            "departureTimeCountDown": "05:45 AM",
+            "stopId": "C",
+            "destination": "TF Green Airport via Elmwood Ave",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:49 AM",
+            "departureTimeFormatted": "05:49 AM",
+            "departureTimeCountDown": "05:49 AM",
+            "stopId": "J",
+            "destination": "Slater Mill (Pawtucket)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:49 AM",
+            "departureTimeFormatted": "05:49 AM",
+            "departureTimeCountDown": "05:49 AM",
+            "stopId": "D",
+            "destination": "Broad Street Terminal (Providence)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:49 AM",
+            "departureTimeFormatted": "05:49 AM",
+            "departureTimeCountDown": "05:49 AM",
+            "stopId": "S",
+            "destination": "Quonset",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:50 AM",
+            "departureTimeFormatted": "05:50 AM",
+            "departureTimeCountDown": "05:50 AM",
+            "stopId": "V",
+            "destination": "Centerdale via Smith St",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:54 AM",
+            "departureTimeFormatted": "05:54 AM",
+            "departureTimeCountDown": "05:54 AM",
+            "stopId": "C",
+            "destination": "Cranston Industrial Park",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:55 AM",
+            "departureTimeFormatted": "05:55 AM",
+            "departureTimeCountDown": "05:55 AM",
+            "stopId": "H",
+            "destination": "South Attleboro Station via Newport Ave",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "05:55 AM",
+            "departureTimeFormatted": "05:55 AM",
+            "departureTimeCountDown": "05:55 AM",
+            "stopId": "G",
+            "destination": "Providence Station",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "C",
+            "destination": "Job Lot (Elmwood Ave - Cranston)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "G",
+            "destination": "Woonsocket/Bellingham via Greystone",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "H",
+            "destination": "Seekonk Sq (Mass) via Wampanoag Plaza",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "B",
+            "destination": "Hospital District (Providence)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "I",
+            "destination": "RI College via Admiral St",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:00 AM",
+            "departureTimeFormatted": "06:00 AM",
+            "departureTimeCountDown": "06:00 AM",
+            "stopId": "W",
+            "destination": "Job Lot (Johnston)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:01 AM",
+            "departureTimeFormatted": "06:01 AM",
+            "departureTimeCountDown": "06:01 AM",
+            "stopId": "J",
+            "destination": "Slater Mill (Pawtucket)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:01 AM",
+            "departureTimeFormatted": "06:01 AM",
+            "departureTimeCountDown": "06:01 AM",
+            "stopId": "D",
+            "destination": "Broad Street Terminal (Providence)",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:02 AM",
+            "departureTimeFormatted": "06:02 AM",
+            "departureTimeCountDown": "06:02 AM",
+            "stopId": "J",
+            "destination": "Riverview Place",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:05 AM",
+            "departureTimeFormatted": "06:05 AM",
+            "departureTimeCountDown": "06:05 AM",
+            "stopId": "G",
+            "destination": "Pawtucket Transit Center via Weeden St",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:05 AM",
+            "departureTimeFormatted": "06:05 AM",
+            "departureTimeCountDown": "06:05 AM",
+            "stopId": "B",
+            "destination": "Oakland Beach",
+            "isRealTime": false
+        }, {
+            "routeName": "0",
+            "tripdId": "15",
+            "arrivalTimeFormatted": "06:07 AM",
+            "departureTimeFormatted": "06:07 AM",
+            "departureTimeCountDown": "06:07 AM",
+            "stopId": "G",
+            "destination": "Smithfield Crossing",
+            "isRealTime": false
+        }]
+}
