@@ -1,8 +1,8 @@
 {
   "destination1" : "Galway",
   "destination1IR" : "Gallimh",
-  "callingatEN" : "Athlone, Ballanasloe, Woodlawn, Athenry, Galway",
-  "callingatIR" : "Clara, Baile Átha Luain, Ballanasloe, Woodlawn, Baile Átha an Rí, Gaillimh",
+  "callingatEN" : "Ballanasloe, Woodlawn, Athenry, Galway",
+  "callingatIR" : "Ballanasloe, Woodlawn, Baile Átha an Rí, Gaillimh",
   "specialNotice" : "This is a special notice",
   "specialNoticeIR" : "This is a special notice in Irish",
   "track1" : "3",
