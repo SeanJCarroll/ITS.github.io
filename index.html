@@ -16,10 +16,18 @@
             max-width: 100%;       /* Prevents large images from breaking the layout */
             height: auto;
             margin-top: 20px;
-            }    
+            }  
+        /* CSS to make the image fit the screen */
+        .fit-screen-img {
+            max-width: 448px;   /* Fits up to 90% of the screen width */
+            max-height: 128px;  /* Fits up to 70% of the screen height */
+            width: auto;       /* Maintains original aspect ratio */
+            height: auto;      /* Maintains original aspect ratio */
+            object-fit: contain; /* Ensures the whole image is visible without cropping */
+        }
     </style>
 </head>
 <body>
-    <img src="Daktronics_Logo.png" alt="Daktronics Logo">
+    <img class="fit-screen-img" src="Daktronics_Logo.png" alt="Daktronics Logo">
 </body>
 </html>
